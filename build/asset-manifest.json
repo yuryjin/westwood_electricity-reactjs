@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/projects/reactjs/westwood/static/css/main.3346df09.chunk.css",
+    "main.js": "/projects/reactjs/westwood/static/js/main.37f591c5.chunk.js",
+    "main.js.map": "/projects/reactjs/westwood/static/js/main.37f591c5.chunk.js.map",
+    "runtime-main.js": "/projects/reactjs/westwood/static/js/runtime-main.759f0ea5.js",
+    "runtime-main.js.map": "/projects/reactjs/westwood/static/js/runtime-main.759f0ea5.js.map",
+    "static/css/2.a9317a39.chunk.css": "/projects/reactjs/westwood/static/css/2.a9317a39.chunk.css",
+    "static/js/2.7094c691.chunk.js": "/projects/reactjs/westwood/static/js/2.7094c691.chunk.js",
+    "static/js/2.7094c691.chunk.js.map": "/projects/reactjs/westwood/static/js/2.7094c691.chunk.js.map",
+    "index.html": "/projects/reactjs/westwood/index.html",
+    "precache-manifest.1d6510fd2909e8405ea0aece6177a491.js": "/projects/reactjs/westwood/precache-manifest.1d6510fd2909e8405ea0aece6177a491.js",
+    "service-worker.js": "/projects/reactjs/westwood/service-worker.js",
+    "static/css/2.a9317a39.chunk.css.map": "/projects/reactjs/westwood/static/css/2.a9317a39.chunk.css.map",
+    "static/css/main.3346df09.chunk.css.map": "/projects/reactjs/westwood/static/css/main.3346df09.chunk.css.map",
+    "static/js/2.7094c691.chunk.js.LICENSE.txt": "/projects/reactjs/westwood/static/js/2.7094c691.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/projects/reactjs/westwood/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/child-proofing.png": "/projects/reactjs/westwood/static/media/child-proofing.59a2374c.png",
+    "static/media/Contacts.css": "/projects/reactjs/westwood/static/media/contacts_header.85f035ce.jpg",
+    "static/media/electrical-overhaul.jpg": "/projects/reactjs/westwood/static/media/electrical-overhaul.c44a373a.jpg",
+    "static/media/electrical-safety-inspection.jpg": "/projects/reactjs/westwood/static/media/electrical-safety-inspection.51601f81.jpg",
+    "static/media/electrical-surge.jpg": "/projects/reactjs/westwood/static/media/electrical-surge.d1ebdf17.jpg",
+    "static/media/all.min.css": "/projects/reactjs/westwood/static/media/fa-solid-900.ee09ad75.woff",
+    "static/media/About.css": "/projects/reactjs/westwood/static/media/heroimage-about-1600x500.0f1afcdf.jpg",
+    "static/media/Home.css": "/projects/reactjs/westwood/static/media/heroimage-home-1600x500.7c2f77a1.jpg",
+    "static/media/Services.css": "/projects/reactjs/westwood/static/media/heroimage-services-1600x500.ecbfff57.jpg",
+    "static/media/logo_ligthing.ico": "/projects/reactjs/westwood/static/media/logo_ligthing.817e3f99.ico",
+    "static/media/testimonial_1.png": "/projects/reactjs/westwood/static/media/testimonial_1.66f9add8.png",
+    "static/media/testimonial_2.jpg": "/projects/reactjs/westwood/static/media/testimonial_2.230a70a2.jpg",
+    "static/media/testimonial_3.png": "/projects/reactjs/westwood/static/media/testimonial_3.d747e81e.png",
+    "static/media/testimonial_4.png": "/projects/reactjs/westwood/static/media/testimonial_4.a3736276.png",
+    "static/media/wiring.jpg": "/projects/reactjs/westwood/static/media/wiring.9442a28f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.759f0ea5.js",
+    "static/css/2.a9317a39.chunk.css",
+    "static/js/2.7094c691.chunk.js",
+    "static/css/main.3346df09.chunk.css",
+    "static/js/main.37f591c5.chunk.js"
+  ]
+}

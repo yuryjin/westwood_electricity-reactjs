@@ -1,0 +1,249 @@
+import React from "react";
+import "./Services.css";
+
+export const Services = () => (
+  <div className="servicespage" style={{ minHeight: "90vh" }}>
+    <h1 style={{ paddingTop: 100, marginBottom: 0 }}>Our services</h1>
+    <div
+      className="cards-container"
+      style={{ padding: "50px 200px 200px 200px" }}
+    >
+      <div className="row upper-deck">
+        <div className="col-4" align="center">
+          <div
+            class="card"
+            style={{
+              maxWidth: "300px",
+              minHeight: "500px",
+              marginLeft: "150px",
+            }}
+          >
+            <img
+              class="card-img-top"
+              src={require("./media/service-page/electrical-safety-inspection.jpg")}
+              alt=""
+              style={{ height: 200, width: 300 }}
+            />
+            <div class="card-body">
+              <h5 class="card-title">Electrical safety inspection</h5>
+              <p class="card-text" align="justify">
+                Lorem ipsum dolor sit amet, in movet suavitate eum, ea ullum
+                aliquip vel. An per falli dicam persecuti. Has cu minimum
+                efficiendi, ea laudem deseruisse vim.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-4" align="center">
+          <div class="card" style={{ maxWidth: "300px", minHeight: "500px" }}>
+            <img
+              class="card-img-top"
+              src={require("./media/service-page/electrical-overhaul.jpg")}
+              alt=""
+              style={{ height: 200, width: 300 }}
+            />
+            <div class="card-body">
+              <h5 class="card-title">Electrical system overhaul</h5>
+              <p class="card-text" align="justify">
+                Lorem ipsum dolor sit amet, in movet suavitate eum, ea ullum
+                aliquip vel. An per falli dicam persecuti. Has cu minimum
+                efficiendi, ea laudem deseruisse vim.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-4" align="center">
+          <div
+            class="card"
+            style={{
+              maxWidth: "300px",
+              minHeight: "500px",
+              marginRight: "150px",
+            }}
+          >
+            <img
+              class="card-img-top"
+              src={require("./media/service-page/child-proofing.png")}
+              alt=""
+              style={{ height: 200, width: 300 }}
+            />
+            <div class="card-body">
+              <h5 class="card-title">Child proofing</h5>
+              <p class="card-text" align="justify">
+                Lorem ipsum dolor sit amet, in movet suavitate eum, ea ullum
+                aliquip vel. An per falli dicam persecuti. Has cu minimum
+                efficiendi, ea laudem deseruisse vim.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="row lower-deck">
+        <div className="col-4" align="center">
+          <div
+            class="card"
+            style={{
+              maxWidth: "300px",
+              minHeight: "500px",
+              marginLeft: "150px",
+            }}
+          >
+            <img
+              class="card-img-top"
+              src={require("./media/service-page/electrical-surge.jpg")}
+              alt=""
+              style={{ height: 300, width: 300 }}
+            />
+            <div class="card-body">
+              <h5 class="card-title">Surge protection</h5>
+              <p class="card-text" align="justify">
+                Lorem ipsum dolor sit amet, in movet suavitate eum, ea ullum
+                aliquip vel. An per falli dicam persecuti. Has cu minimum
+                efficiendi, ea laudem deseruisse vim.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-4" align="center">
+          <div class="card" style={{ maxWidth: "300px", minHeight: "500px" }}>
+            <img
+              class="card-img-top"
+              src={require("./media/service-page/recessed-lighting.jpg")}
+              alt=""
+              style={{ height: 300, width: 300 }}
+            />
+            <div class="card-body">
+              <h5 class="card-title">Recessed lighting installation</h5>
+              <p class="card-text" align="justify">
+                Lorem ipsum dolor sit amet, in movet suavitate eum, ea ullum
+                aliquip vel. An per falli dicam persecuti. Has cu minimum
+                efficiendi, ea laudem deseruisse vim.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-4" align="center">
+          <div
+            class="card"
+            style={{
+              maxWidth: "300px",
+              minHeight: "500px",
+              marginRight: "150px",
+            }}
+          >
+            <img
+              class="card-img-top"
+              src={require("./media/service-page/wiring.jpg")}
+              alt=""
+              style={{ height: 300, width: 300 }}
+            />
+            <div class="card-body">
+              <h5 class="card-title">Wiring</h5>
+              <p class="card-text" align="justify">
+                Lorem ipsum dolor sit amet, in movet suavitate eum, ea ullum
+                aliquip vel. An per falli dicam persecuti. Has cu minimum
+                efficiendi, ea laudem deseruisse vim.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="container p-5">
+      <div className="row" style={{ paddingBottom: 100 }}>
+        <div className="col-4">
+          <div class="card" style={{ width: "18rem" }}>
+            <img class="card-img-top" src="..." alt="Card image cap" />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">
+                Go somewhere
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-4">
+          <div class="card" style={{ width: "18rem" }}>
+            <img class="card-img-top" src="..." alt="Card image cap" />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">
+                Go somewhere
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-4">
+          <div class="card" style={{ width: "18rem" }}>
+            <img class="card-img-top" src="..." alt="Card image cap" />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">
+                Go somewhere
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="row">
+        <div className="col-4">
+          <div class="card" style={{ width: "18rem" }}>
+            <img class="card-img-top" src="..." alt="Card image cap" />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">
+                Go somewhere
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-4">
+          <div class="card" style={{ width: "18rem" }}>
+            <img class="card-img-top" src="..." alt="Card image cap" />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">
+                Go somewhere
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-4">
+          <div class="card" style={{ width: "18rem" }}>
+            <img class="card-img-top" src="..." alt="Card image cap" />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+              <a href="#" class="btn btn-primary">
+                Go somewhere
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+);

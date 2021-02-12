@@ -1,0 +1,148 @@
+.jumbotron-home {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+  margin: 0px;
+}
+
+.hero-image-desktop-version-home {
+  height: 25rem;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("./media/heroimages/heroimage-home-1600x500.jpg");
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+}
+
+.hero-image-mobile-version-home {
+  height: 15rem;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("./media/heroimages/heroimage-home-1200x800.jpg");
+}
+
+/*
+.hero-image-mobile-version {
+
+}
+*/
+
+.shade {
+  width: 480px;
+}
+
+.homepage-content {
+  color: white;
+}
+
+.header_and_tagline {
+  margin: 0px 0px 0px 0px;
+}
+
+.headermain {
+  margin-bottom: 15px;
+  font-size: 1.6rem;
+}
+
+.tagmain {
+  font-size: 2rem;
+}
+
+.button-group {
+  margin: 0px 0px 0px -30px;
+}
+
+.btn-primary {
+  background-color: rgba(0, 107, 255, 1) !important;
+}
+
+.btn-primary:hover {
+  color: rgb(255, 208, 0);
+}
+
+.homepage {
+  margin: 0px;
+  padding: 0px;
+}
+
+.text-header {
+  margin-bottom: 2rem;
+}
+
+.container-homepage {
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+.jumbotron-home {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url("https://www.bpmelectric.com/wp-content/uploads/2019/03/Fotolia_170179753_Subscription_Monthly_M.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+  padding-top: 30vh;
+  padding-bottom: 15vh;
+  margin: 0px;
+}
+
+.shade {
+  width: 480px;
+}
+
+.homepage-content {
+  padding: 100px 0px 0px 0px;
+  color: white;
+}
+
+.header_and_tagline {
+  margin: 0px 0px 0px 0px;
+}
+
+.headermain {
+  margin-bottom: 15px;
+  font-size: 1.6rem;
+}
+
+.tagmain {
+  font-size: 2rem;
+}
+
+.button-group {
+  margin: 0px 0px 0px -30px;
+}
+
+.btn-primary {
+  background-color: rgba(0, 107, 255, 1) !important;
+}
+
+.btn-primary:hover {
+  color: rgb(255, 208, 0);
+}
+
+.homepage {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+*/

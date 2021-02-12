@@ -1,0 +1,8 @@
+body,
+html {
+  min-height: 100%;
+}
+
+.parent {
+  min-height: 80.5vh;
+}

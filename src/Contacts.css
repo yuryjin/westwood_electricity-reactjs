@@ -1,0 +1,63 @@
+.jumbotron-contacts {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./media/contacts_header.jpg");
+  height: 50vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+  padding-top: 15vh;
+  padding-bottom: 15vh;
+}
+
+/*
+.jumbotron-contactpage {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.226));
+  position: relative;
+  padding-top: 15vh;
+  padding-bottom: 15vh;
+}
+
+.contacts-container {
+  margin: 50;
+  width: 600;
+}
+*/
+
+/*
+.contactspage {
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.541), rgba(0, 0, 0, 0.178));
+}
+
+.background-wrapper {
+  background-color: rgba(255, 255, 255, 0.801);
+  width: 500px;
+  padding: 50px;
+}
+*/
+
+.contactspage {
+  min-height: 100vh;
+  background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255));
+}
+
+.background-wrapper {
+  background-color: rgba(0, 0, 0, 0.075);
+  width: 500px;
+  padding: 50px;
+}
+
+.background-wrapper2 {
+  background-color: rgba(0, 0, 0, 0.075);
+  width: 28rem;
+  padding: 50px;
+}
+
+.supa-wrapper {
+  height: 100vh;
+}
+
+.testimonial-1 {
+  margin-bottom: 5rem;
+}

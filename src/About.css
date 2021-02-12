@@ -1,0 +1,23 @@
+.jumbotron-about {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+}
+
+.hero-image-desktop-version-about {
+  height: 25rem;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("./media/heroimages/heroimage-about-1600x500.jpg");
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+}
+
+.hero-image-mobile-version-about {
+  height: 15rem;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("./media/heroimages/heroimage-about-1200x800.jpg");
+}
+
+.header-image {
+  margin: -138px 0px 0px 0px;
+}

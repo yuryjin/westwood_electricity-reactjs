@@ -1,0 +1,76 @@
+.jumbotron-services {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+}
+
+.hero-image-desktop-version-services {
+  height: 25rem;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("./media/heroimages/heroimage-services-1600x500.jpg");
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+}
+
+.hero-image-mobile-version-services {
+  height: 15rem;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("./media/heroimages/heroimage-services-1200x800.jpg");
+}
+
+.servicespage {
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+}
+
+.upper-deck {
+  margin: 50px 20px 50px 20px;
+}
+
+.lower-deck {
+  margin: 0px 20px 50px 20px;
+}
+
+.container-services {
+  background-color: rgba(171, 173, 173, 0.062);
+  padding: 50px 50px 50px 50px;
+  margin-bottom: 150px;
+}
+
+.card-img-top {
+  width: 100%;
+}
+
+.cardo {
+  height: 350px;
+  border-radius: 0;
+  box-shadow: 5px 5px 15px rgba(0, 107, 255, 1);
+  transition: all 0.3s ease-in;
+  -webkit-transition: all 0.3s ease-in;
+  -moz-transition: all 0.3s ease-in;
+}
+
+.cardo:hover {
+  border-radius: 5;
+  border: none;
+  box-shadow: 5px 5px 10px rgba(255, 208, 0, 1);
+}
+
+.cardo:hover img {
+  src: "./media/service-page/light.png";
+}
+
+/*
+.cardo:hover .card-body p {
+  color: white;
+}
+*/
+
+.services-page-wrapper-content {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.services-page-main-header-title {
+  margin-bottom: 2rem;
+}
